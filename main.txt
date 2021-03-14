@@ -1,0 +1,2 @@
+
+docker run --rm  -v "C:\Users\Yaron\Desktop\10_bis_assig\case study assignment":/job godatadriven/pyspark /job/case_study_analyze.py %1
